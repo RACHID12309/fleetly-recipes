@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-color: #FF8C32;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.cta-button {
+    background-color: white;
+    color: #FF8C32;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.carousel {
+    display: flex;
+    overflow: hidden;
+}
+
+.search-bar {
+    margin: 20px 0;
+}
+
+.categories {
+    display: flex;
+    justify-content: space-around;
+}
